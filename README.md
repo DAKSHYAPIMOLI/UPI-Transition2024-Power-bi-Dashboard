@@ -15,5 +15,5 @@ Bank-to-bank transaction flows & city-level adoption
 
 Modes of payment: QR code scans, device-based transfers, direct payments
 
-✨ The dashboard doesn’t just show numbers—it tells a story of how India embraced digital payments across lifestyle, travel, and commerce in 2024.
+✨ The dashboard doesn’t just show numbers—it tells a story of how India embraced digital payments across lifestyle, travel, and commerce in 2024. 
 
